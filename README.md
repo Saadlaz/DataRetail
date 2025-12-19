@@ -1,3 +1,4 @@
+<img width="1024" height="565" alt="image" src="https://github.com/user-attachments/assets/626c078c-d45a-4304-a28d-752adcf1c9c8" />
 # Retail Data Warehouse (Snowflake)
 
 This repository contains SQL scripts to build a  Snowflake-based retail data warehouse.
