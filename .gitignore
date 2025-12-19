@@ -1,0 +1,9 @@
+# Ignore local environment and secrets
+.env
+*.env
+.DS_Store
+.vscode/
+
+# Ignore any runtime artifacts
+*.log
+*.tmp
