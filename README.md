@@ -1,6 +1,6 @@
 # Retail Data Warehouse (Snowflake)
 
-This repository contains SQL scripts to build a small Snowflake-based retail data warehouse.
+This repository contains SQL scripts to build a  Snowflake-based retail data warehouse.
 
 Structure
 - sql/00_setup.sql — create database, schemas, and warehouse
